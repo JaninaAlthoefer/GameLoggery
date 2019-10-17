@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">GameLoggery</string>
+
+    <string name="loginNameString">test@example.com</string>
+    <string name="loginPasswordString">test</string>
+    <string name="loginTextString">Please Login To Continue</string>
+    <string name="loginButtonString">Login</string>
+    <string name="loginSignUpButton">Sign Up</string>
+
+    <string name="detailTitleString">Game: </string>
+    <string name="detailPublisherString">Publisher: </string>
+    <string name="detailDeveloperString">Developer: </string>
+    <string name="detailBeatenString">Beaten </string>
+    <string name="detailHoursString">Hours Played: </string>
+    <string name="detailPlatformString">Platform: </string>
+    <string name="detailYearString">Release Year: </string>
+    <string name="detailRatingString">Personal Rating: </string>
+
+</resources>
